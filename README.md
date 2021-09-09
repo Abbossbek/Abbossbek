@@ -1,6 +1,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abbossbek&show_icons=true&theme=gotham" alt="Abbossbek" />  
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbossbek&show_icons=true&theme=gotham" alt="Abbossbek" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abbossbek&show_icons=true&theme=gotham" alt="Abbossbek" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbossbek&show_icons=true&theme=gotham&layout=compact" alt="Abbossbek" />
 <!--
 **Abbossbek/Abbossbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
