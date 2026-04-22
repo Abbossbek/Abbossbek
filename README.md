@@ -52,10 +52,10 @@ Passionate about building scalable, high-performance applications using the .NET
 | Platform | Link |
 |:--------:|:----:|
 | 🔗 LinkedIn | [linkedin.com/in/abbossbek](https://www.linkedin.com/in/abbossbek) |
-| 🌐 ARCom.uz | [arcom.uz](https://arcom.uz) |
-| 💼 Upwork | [upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~yourprofile) |
-| 📝 Stack Overflow | [stackoverflow.com/users/yourid](https://stackoverflow.com/users/yourid) |
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
+| 🌐 ARCom.uz | [arcom.uz](https://www.arcom.uz) |
+| 💼 Upwork | [upwork.com/freelancers/~0177b778e7b6ce9ae6](https://www.upwork.com/freelancers/~0177b778e7b6ce9ae6?mp_source=share) |
+| 📝 Stack Overflow | [https://stackoverflow.com/users/14071591/abbosbek-niyozqulov](https://stackoverflow.com/users/14071591/abbosbek-niyozqulov) |
+| 📧 Email | [abbos6882@gmail.com](mailto:abbos6882@gmail.com) |
 
 > 💬 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*  
 > 🌟 Open to collaboration, open-source contributions, and tech community building!
